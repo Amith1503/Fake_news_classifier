@@ -23,4 +23,4 @@ Evaluation is based on a weighted, two-level scoring system:
 Level 1: Classify headline and body text as related or unrelated 25% score weighting
 Level 2: Classify related pairs as agrees, disagrees, or discusses 75% score weighting
 
-This repository displays various methods experimented and the final model was a deep neural network approach which crossed the base line model and acheived an accuracy of 80.87%
+This repository displays various methods experimented and the final model was a deep neural network approach which crossed the base line model and acheived an accuracy of 80.87%. A detailed report of our approach and our findings can also be found.
